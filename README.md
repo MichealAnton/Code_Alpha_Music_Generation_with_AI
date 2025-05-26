@@ -26,9 +26,8 @@ An AI model that uses RNN architecture with LSTM layers and trained on MIDI file
 2. Install dependencies:
  ```bash
  pip install music21 tensorflow numpy kagglehub
- sudo apt-get install -y lilypond
-
-
+ sudo apt-get install -y lilypond ```
+ 
 # Dataset
 The model uses the Classical Music MIDI dataset from Kaggle, specifically the Mozart subdirectory.
 
